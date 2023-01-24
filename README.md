@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CauseGood
 - 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... JavaScript, Solidity
-- 💞️ I’m looking to collaborate on ... community development
+- 🌱 I’m currently learning ... html, css
+- 💞️ I’m looking to collaborate on ... community development, solving challenges, creating more good in the world.
 - 📫 How to reach me ... 
 
 <!---
