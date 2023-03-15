@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CauseGood
 - 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... html, css
+- 🌱 I’m currently learning ... html, css, visual studio
 - 💞️ I’m looking to collaborate on ... community development, solving challenges, creating more good in the world.
 - 📫 How to reach me ... 
 
